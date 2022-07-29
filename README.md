@@ -43,8 +43,7 @@ these three rules you'll be fine:
   `camelCaseYourVariableNames` (see the camel humps?) instead of
   `snake_casing_them` (think of the underscore as a snake that swallowed the
   words).
-- Don't use JavaScript [reserved words][reserved words] or [future reserved
-  words][future reserved words].
+- Don't use JavaScript [reserved words][reserved words].
 
 It's important to note that case matters, so `javaScript`, `javascript`,
 `JavaScript`, and `JAVASCRIPT` are four different variables.
@@ -245,5 +244,4 @@ variables and for when to use `let`, `const`, and `var`.
 - [Wikipedia - ECMAScript: Versions](https://en.wikipedia.org/wiki/ECMAScript#Versions)
 
 [valid variable names]: https://mathiasbynens.be/notes/javascript-identifiers-es6
-[reserved words]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Reserved_keywords_as_of_ECMAScript_2015
-[future reserved words]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Future_reserved_keywords
+[reserved words]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#reserved_words
